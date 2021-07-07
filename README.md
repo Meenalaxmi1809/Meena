@@ -1,2 +1,2 @@
-# multiple-question-quiz
+# TestPress Quizz
  Angular app with firebase authentication
